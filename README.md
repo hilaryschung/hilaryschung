@@ -1,7 +1,7 @@
 ## 👋 Hey There!
 
 <b> About me: </b>
-- 💾 Fixing *newfinalfinal.pptx*
+- 💾 Fixing *new_final_FINAL.pptx*
 - 🌱 I’m currently learning Python, SQL, and much more!
 - 👀 My interests are photography, color grading, and video editing
 - 🧀 Fun Fact: Huge foodie who has yet acuqire the taste for cheese 
