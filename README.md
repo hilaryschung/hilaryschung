@@ -3,7 +3,7 @@
 <b> About me: </b>
 - 💾 Fixing *new_final_FINAL.pptx*
 - 🌱 I’m currently learning Python, SQL, and much more!
-- 👀 My interests are photography, color grading, and video editing
+- 👀 My interests are photography, video editing, and traveling
 - 🧀 Fun Fact: Huge foodie who has yet to acquire the taste for cheese 
 - 📫 Find me here [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/hilaryschung)
 &nbsp;
