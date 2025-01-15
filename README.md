@@ -11,6 +11,7 @@
 <b> Goals that I'm currently challenging myself:  </b>
 <br/>
 A friend once told me, "Your future is in your own hands, no one can determine your future except yourself." 
+<br/> 
 I decided to invest time in myself. I set a few self-challenging goals to push myself further. 🐾 
 - [ ] 📖 Read 30 minutes per day 
 - [ ] 🏋️‍♀️ Workout at least 2 times a week 
